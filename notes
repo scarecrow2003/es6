@@ -1,0 +1,4 @@
+1. In ES6 we can use a new syntax ${NAME} inside of the back-ticked string:
+  var name = `Your name is ${first} ${last}.`
+  var url = `http://localhost:3000/api/messages/${id}`
+2. var accountServiceES5ObjectCreate = Object.create(serviceBase)
